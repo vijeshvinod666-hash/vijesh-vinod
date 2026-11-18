@@ -1,0 +1,6 @@
+{
+  "name": "Arches National Park — Nature's Masterpiece",
+  "description": "An interactive 60-second 3D documentary exploring Utah's red rock arches, Delicate Arch, desert wildlife, and starlit night skies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
